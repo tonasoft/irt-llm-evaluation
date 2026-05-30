@@ -1,0 +1,1015 @@
+full_name,body_anonymized,is_resolvable_human_response
+paratestphp/paratest,"
+<!-- Provide a summary of the feature you would like to see implemented. -->
+",Yes
+kamailio/kamailio,"
+<!--
+<|Repo_Name|> Project uses GitHub Issues only for bugs in the code or feature requests. Please use this template only for feature requests.
+
+If you have questions about using <|Repo_Name|> or related to its configuration file, ask on sr-users mailing list:
+
+* <|URL|>
+
+If you have questions about developing extensions to <|Repo_Name|> or its existing C code, ask on sr-dev mailing list:
+
+* <|URL|>
+
+Please try to fill this template as much as possible for any issue. It helps the developers to troubleshoot the issue.
+
+If you submit a feature request (or enhancement) add the description of what you would like to be added.
+
+If there is no content to be filled in a section, the entire section can be removed.
+
+You can delete the comments from the template sections when filling.
+
+You can delete next line and everything above before submitting (it is a comment).
+-->
+
+### Description
+
+<!--
+Explain what you did, what you expected to happen, and what actually happened.
+-->
+
+### Expected behavior
+
+#### Actual observed behavior
+
+#### Debugging Data
+
+```
+<|Code|>
+```
+
+#### Log Messages
+
+<!--
+Check the syslog file and if there are relevant log messages printed by <|Repo_Name|>, add them next, or attach to issue, or provide a link to download them (e.g., to a pastebin site).
+-->
+
+```
+<|Code|>
+```
+
+#### SIP Traffic
+
+<!--
+If the issue is exposed by processing specific SIP messages, grab them with ngrep or save in a pcap file, then add them next, or attach to issue, or provide a link to download them (e.g., to a pastebin site).
+-->
+
+```
+<|Code|>
+```
+
+### Possible Solutions
+
+<!--
+If you found a solution or workaround for the issue, describe it. Ideally, provide a pull request with a improvement.
+-->
+
+### Additional Information
+
+* **<|Repo_Name|> Version** - output of `<|Repo_Name|> -v`
+
+```
+<|Code|>
+```
+
+* **Operating System**:
+
+<!--
+Details about the operating system, the type: Linux (e.g.,: Debian 8.4, Ubuntu 16.04, CentOS 7.1, ...), MacOS, xBSD, Solaris, ...;
+Kernel details (output of `uname -a`)
+-->
+
+```
+<|Code|>
+```
+",Yes
+pathoschild/smapi,"
+<!--
+
+GitHub issues are only used for development tasks.
+For support and questions, see <|URL|> instead.
+
+-->
+",Yes
+bluelibs/bluelibs,"
+Please keep in mind the tips below when formulating a question:
+
+- A good meaningful title so the question is easily understood
+- Give us context. If there's a problem how did you arrive to this problem, what aspects does it impact?
+- Feel free to share your possible outcomes. Often when we transmit how we would see a solution, we give the person a better understanding of our question.
+
+If you are pasting code, please keep in mind the following tips:
+
+- For code use GitHub's code blocks please also specify the language (typescript/js/jsx) etc
+- Please indent the code that you want to paste
+- Leave meaningful comments if the code is too large so anyone can easily understand it
+",No
+kosua20/midivisualizer,"
+Thank you for your interest in <|Repo_Name|>, and thank you for helping me improve it! It is a personal project so I don't always have a lot of time to give to <|Repo_Name|>, but I welcome all suggestions!
+
+Here you can describe any feature you would like to see in <|Repo_Name|>. Feel free to add images or links to examples. You can also add a use case or explain why you think it would be an interesting addition.
+
+Don't hesitate to check the [issues](<|URL|>) created by other people who might have suggested similar features. You can also check the [latest release](<|URL|>) from time to time to see the recently added features.
+
+Thank you once again for your help!
+",No
+arthyn/taisho,"
+**Bug Description*
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected Behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Environment:**
+- OS: [e.g. MacOS]
+- Version: [e.g. 22]
+- Port Version: [e.g. 1.0.1]
+
+**Additional context**
+Add any other context about the problem here.
+
+If you still have it open, click the little bug in the right hand corner. You should see dev tools pop up in the main window, and also a background window with dev tools. Check either of the dev tools, click console and scroll to see if there's any errors, include those if possible.
+",Yes
+pytorchlightning/lightning-bolts,"
+## 🐛 Bug
+
+<!-- A clear and concise description of what the bug is. -->
+
+### To Reproduce
+
+Steps to reproduce the behavior:
+
+1. Go to '...'
+1. Run '....'
+1. Scroll down to '....'
+1. See error
+
+<!-- If you have a code sample, error messages, stack traces, please provide it here as well -->
+
+#### Code sample
+
+<!-- Ideally attach a minimal code sample to reproduce the decried issue.
+Minimal means having the shortest code but still preserving the bug. -->
+
+### Expected behavior
+
+<!-- A clear and concise description of what you expected to happen. -->
+
+### Environment
+
+- PyTorch Version (e.g., 1.0):
+- OS (e.g., Linux):
+- How you installed PyTorch (`conda`, `pip`, source):
+- Build command you used (if compiling from source):
+- Python version:
+- CUDA/cuDNN version:
+- GPU models and configuration:
+- Any other relevant information:
+
+### Additional context
+
+<!-- Add any other context about the problem here. -->
+",Yes
+saleor/saleor,"
+### What I'm trying to achieve
+…
+
+### Describe a proposed solution
+...
+
+### Other solutions I've tried and won't work
+…
+
+### Screenshots or mockups
+<!-- Please provide any illustrations that could help others understand the problem or the proposed solution. -->
+",Yes
+mylar3/mylar3,"
+**Describe the request**
+A clear and concise description of what the request is.
+
+**How did you come up with the idea?**
+Have you seen this request implemented somewhere else? An example or two might speed along development
+
+**Environment (please complete the following information):**
+- OS: [e.g. Windows10]
+- Branch / commit: [e.g. Dev/38aksi1]
+
+**Additional information**
+Add any other information about the request here.
+",Yes
+grpc/grpc-swift,"
+<!--
+Please check the README, docs/ directory and other issues before filing a new
+issue.
+
+This form is for submitting FEATURE REQUESTS or ENHANCEMENTS only.
+
+For bug reports or troubleshooting please use one of the other templates.
+-->
+
+
+### Is your feature request related to a problem? Please describe it.
+
+A clear and concise description of what the problem is. E.g. It's difficult
+to ...
+
+### Describe the solution you'd like
+
+A clear and concise description of what you want to happen.
+
+### Describe alternatives you've considered
+
+A clear and concise description of any alternative solutions or features you've
+considered, if any.
+
+### Additional context
+
+Add any other context about the feature request here.
+",Yes
+qawolf/qawolf,"
+## Bug description
+
+_Describe the issue, including screenshots where helpful._
+
+## Steps to reproduce
+
+#### Thank you for reporting this bug 🐺
+",Yes
+fastnlp/fastnlp,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+",No
+quickwit-oss/quickwit,"
+<!--
+
+Hi 👋, thank you for submitting a tutorial to <|Repo_Name|>!
+
+Don't forget to replace the title of this issue with a short
+sentence that describes the topic of your tutorial!
+
+-->
+
+## My tutorial idea
+
+Use this section to give a description of what your tutorial is about.
+
+Examples:
+
+> I would like to write a tutorial that shows how to use <|Repo_Name|>:
+>
+> - ""for storing traces...""
+> - ""with Grafana/Jaeger/MinIO...""
+> - ""for ingesting terabytes per day with Kafka...""
+
+Are there any particular tools, concepts, languages or platforms that readers
+will learn about?
+
+**What do you all think?**
+👍 I would love to see it!
+🚀 I would love to help!
+
+Thank you for your request!
+",Yes
+jmfayard/refreshversions,"
+- [ ] I have read the [guidelines for submitting issues](<|URL|>)
+
+## ⚠️ Is your feature request related to a problem? Please describe
+<!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
+
+## 💡 Describe the solution you'd like
+<!-- A clear and concise description of what you want to happen. -->
+
+## 🤚 Do you want to develop this feature yourself?
+<!-- Put an `x` symbol into braces of desired choice. -->
+- [ ] Yes
+- [ ] No
+",Yes
+timescale/docs,"
+The broken link check failed. Check [the workflow logs](<|URL|>) to identify the failing links.
+",Yes
+awslabs/aws-mobile-appsync-sdk-android,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Environment(please complete the following information):**
+- AppSync SDK Version: [e.g. 2.6.25]
+
+**Device Information (please complete the following information):**
+- Device: [e.g. Pixel XL, Simulator]
+- Android Version: [e.g. Nougat 7.1.2]
+- Specific to simulators:
+
+**Additional context**
+Add any other context about the problem here.
+",Yes
+trustroots/trustroots,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+
+Add links to discussion on Slack (or Discourse).
+",Yes
+openyurtio/openyurt,"
+<!-- Please use this template while reporting a bug and provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner. Thanks!-->
+
+
+**What happened**:
+
+**What you expected to happen**:
+
+**How to reproduce it (as minimally and precisely as possible)**:
+
+**Anything else we need to know?**:
+
+**Environment**:
+- <|Repo_Name|> version:
+- Kubernetes version (use `kubectl version`):
+- OS (e.g: `cat /etc/os-release`):
+- Kernel (e.g. `uname -a`):
+- Install tools:
+- Others:
+
+**others**
+
+/kind bug
+",Yes
+tarscloud/tars,"
+**What version of <|Repo_Name|> and what language are you using?**
+
+**What operating system (Linux, Windows, ...) and version?** [e.g. CentOS 7.8]
+
+**What runtime/compiler are you using?** [e.g. JDK version or version of gcc]
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Additional context**
+Add any other context about the problem here.
+",Yes
+hubmapconsortium/portal-ui,"
+Fill in as much as seems useful:
+
+**Describe the issue**
+
+**To Reproduce**
+
+**Expected behavior**
+
+**Screenshots**
+
+**Environment**
+- Browser:
+- Browser version:
+- Portal version: `/static/VERSION`
+
+**Best guesses**
+- Relevant repos:
+- Developers to involve:
+",Yes
+openwhyd/openwhyd,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+",Yes
+livepeer/studio,"
+**What is this discussion about? (required)** A one sentence description of the
+the discussion topic.
+
+**What do you hope to learn by the end of this discussion? (required)** A clear
+and concise description of what you want to happen.
+
+**Additional context** Add any other context or screenshots about the feature
+request here.
+",No
+sebouellette/livebot,"
+#### What branch/release are you using?
+<!-- Name of branch, or version of release -->
+- Branch/Release:
+
+#### Errors
+<!-- Screenshot or copy any errors that you can find which relate to the problem -->
+
+#### Steps required to reproduce the bug
+<!-- Try include as much as you can to make it easier to fix the bug -->
+- Steps:
+<!-- If you know how to fix it you can provide the code sample that is breaking -->
+
+#### Screenshot (In most cases required)
+<!-- You can post a link or an attachment.
+if it's a link then make sure to upload it to a website where it won't expire or get deleted -->
+- Screenshot:
+
+#### Description
+<!-- Anything else you would like to add -->
+",Yes
+dotnet/docfx,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. ...
+2. ...
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Context (please complete the following information):**
+- OS: Windows
+- <|Repo_Name|> version: [e.g. 2.59.0]
+- .NET version: [e.g. .NET Framework 472, .NET 6.0]
+
+- `<|Repo_Name|>.json` config
+
+```json
+<|Code|>
+```
+
+- Exceptions
+
+```csharp
+<|Code|>
+```
+
+- Errors and warnings
+
+```csharp
+<|Code|>
+```
+
+- .NET info
+
+```csharp
+<|Code|>
+```
+
+**Additional context**
+Add any other context about the problem here.
+",No
+vouch/vouch-proxy,"
+**First read the README**
+Specifically ***[Troubleshooting, Support and Feature Requests](<|URL|>)***.
+
+And please turn on `vouch.testing` before you ask for support.
+
+
+
+** Please DO NOT post config and logs to this issue,  use a Gist**
+We prefer a [gist](<|URL|>) but any reasonable paste service is fine.
+
+**Describe the problem**
+A clear and concise description of the behavior you are observing.
+Please include which OAuth provider you are using.
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Desktop (please complete the following information):**
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+",No
+dotnet/interactive,"
+### Describe the bug
+Please provide as much information as you can.
+
+### Please complete the following:
+
+**Which version of .NET <|Repo_Name|> are you using?** (In a notebook, run the `#!about` magic command. ):
+
+- OS
+- [ ] Windows 11
+- [ ] Windows 10
+- [ ] macOS
+- [ ] Linux (Please specify distro)
+- [ ] iOS
+- [ ] Android
+- Browser
+- [ ] Chrome
+- [ ] Edge
+- [ ] Firefox
+- [ ] Safari
+- Frontend
+- [ ] Jupyter Notebook
+- [ ] Jupyter Lab
+- [ ] nteract
+- [ ] Visual Studio Code
+- [ ] Visual Studio Code Insiders
+- [ ] Visual Studio
+- [ ] Other (please specify)
+
+### Screenshots
+If applicable, add screenshots to help explain your problem.
+",Yes
+relekang/python-semantic-release,"
+
+",No
+egee-irl/distro-delves,"
+<!--- Verify first that your Distro was not already submitted! -->
+
+## Name & tl;dr
+<!--- Required: What is the name, version, etc -->
+
+## What is the release date or cycle?
+<!--- Optional: This helps in planning future episodes -->
+
+## Who is the target user?
+<!--- Optional: This helps set the expectation in how compatible it is with the Distro Delve script -->
+
+## What platforms does it support?
+<!--- Optional: x86, x64, arm, etc -->
+
+## What makes it special?
+<!--- Optional: Why should people be excited about this distro? -->
+",Yes
+compas-dev/compas_fab,"# Feature Request
+
+As a [role], I want [something] so that [benefit].
+
+## Details
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is.
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",Yes
+rsmusllp/king-phisher,"
+# Feature Description
+<!-- Describe the feature here that you would like to see added to the project. Does the feature solve a problem and how often do you think it will be used? -->
+
+## Alternatives Solutions
+<!-- Describe any alternative solutions you considered and why you came to the conclusion you did regarding the proposed solution. -->
+
+## Example Use Case
+<!-- Provide an example of when this feature would be used. -->
+",Yes
+edcd/eddi,"
+## What's Wrong (please be as specific as possible)
+
+### Expected
+[Describe what you expected to happen]
+
+### Observed
+[Describe what actually happened. Feel free to add screenshots, link to videos, etc to help explain what happened]
+
+### Steps to reproduce
+1. [Give the fullest and most reproducible steps you can]
+2. [The more reproducible, the better our chances of fixing it]
+
+### Configuration
+* Version [Please give full version numbers here, not just ""latest"" or ""current""]
+* <|Repo_Name|> Version:
+* VoiceAttack Version: [if applicable]
+* Localization [if applicable]
+* <|Repo_Name|>'s language: [or the operating system language if <|Repo_Name|>'s language setting is ""Automatic""]
+* Voice: [Name and language]
+
+## My Investigation
+
+### Investigation Notes
+[Any investigation you have done, tests using default scripts and personalities, regression tests against earlier versions, etc]
+
+### <|Repo_Name|> Logs
+[Any log files providing additional details about what happened. These are located at %APPDATA%/<|Repo_Name|> and have the extension "".log""]
+
+### Player journals
+[These are not required if <|Repo_Name|> Logs are verbose but may be helpful otherwise. They are located at [your Saved Games folder]/Frontier Developments/Elite Dangerous/. Please only provide excerpts or attach files from the play session where the issue occurred.]
+",Yes
+vmware/terraform-provider-vra,"
+### Code of Conduct
+
+This project has a Code of Conduct that all participants are expected to understand and follow:
+* [ ] I have read and agree to the project's [Code of Conduct](<|URL|>)
+
+### Description
+<!--- Please leave a helpful description of the feature request here --->
+
+### Describe alternatives you've considered
+<!--- A clear and concise description of any alternative solutions or features you've considered --->
+
+### References
+<!---
+Information about referencing Github Issues: <|URL|>
+
+Are there any other GitHub issues (open or closed) or pull requests that should be linked here? Vendor documentation? For example:
+--->
+
+<!--- Please keep this note for the community --->
+
+### Community Note
+
+* Please vote on this issue by adding a 👍 [reaction](<|URL|>) to the original issue to help the community and maintainers prioritize this request
+* Please do not leave ""+1"" or other comments that do not add relevant new information or questions, they generate extra noise for issue followers and do not help prioritize the request
+* If you are interested in working on this issue or have submitted a pull request, please leave a comment
+
+<!--- Thank you for keeping this note for the community --->
+",No
+ikemen-engine/ikemen-go,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Detailed steps to reproduce the behavior, e.g.:
+1. Download character from '...' (don't forget about this step, it's crucial for reproducing the issue locally)
+2. Start the match and perfrom move using following commands '...'
+3. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots / Video**
+If applicable, add screenshots and/or videos to help explain your problem.
+
+**Platform (please complete the following information):**
+- Engine Version [e.g. 0.98]
+- OS: [e.g. Windows 10]
+
+**Additional context**
+Add any other context about the problem here.
+",Yes
+kubernetes-sigs/cloud-provider-azure,"<!-- Feature requests are unlikely to make progress as an issue.
+
+Instead, please suggest enhancements by engaging with SIGs on slack and mailing lists.
+
+A proposal that works through the design along with the implications of the change can be opened as a KEP:
+<|URL|>
+-->
+
+#### What would you like to be added:
+
+#### Why is this needed:
+",Yes
+luc-github/esp3d-webui,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",Yes
+unity-technologies/com.unity.multiplayer.docs,"
+**Describe the bug:**
+Give a clear and concise description of the issue. Include any errors you received.
+
+**Steps to reproduce the behavior:**
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
+
+**Expected behavior:**
+Describe what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop/Tablet/Smartphone (please complete the following information):**
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Additional info:**
+Add any other context about the problem here.
+",No
+rocky-linux/rockylinux.org,"
+**Language Translated:** e.g. English
+
+**Localized Language Name:** e.g. Español
+
+**ISO 639-1 Language Code:** e.g. `en`
+
+**Localized Date Format:** e.g. `DD/MM/YYYY`
+",Yes
+scikit-hep/uproot5,"
+Thank you for submitting an issue! (I know that it takes time and effort to do so.)
+
+Note that we'll be closing the issue as soon as a solution is proposed. This is not meant to be unfriendly; it's for our own bookkeeping. If you think the first answer/solution is unsatisfactory, please do continue the thread and we'll reopen it or otherwise address it.
+
+Please attach a small ROOT file that reproduces the issue! If small and public, you can drag-and-drop it into the issue—rename the extension to ""txt"" so that GitHub allows it. If large, you can put it on some large-file service (e.g. Dropbox). In general, we can't access XRootD URLs (most are not public).
+
+Include the version number (and update if necessary, if you're not using the [latest version](<|URL|>)).
+
+```python
+<|Code|>
+```
+",Yes
+adobe-apiplatform/user-sync.py,"
+<!-- Ask any question you want about the User Sync Tool. Please provide configuration files when applicable. You can post them by dragging
+and dropping the file to this input box. Be sure to remove any sensitive information such as credentials, hosts, account names or email
+addresses !-->
+",Yes
+parse-community/parselivequery-ios-osx,"
+### New Feature / Enhancement Checklist
+<!--
+Check every following box [x] before submitting your issue.
+Click the ""Preview"" tab for better readability.
+Thanks for contributing to Parse Platform!
+-->
+
+- [ ] I am not disclosing a [vulnerability](<|URL|>).
+- [ ] I am not just asking a [question](<|URL|>).
+- [ ] I have searched through [existing issues](<|URL|>).
+
+### Current Limitation
+<!-- Which current limitation is the feature or enhancement addressing? -->
+
+### Feature / Enhancement Description
+<!-- What is the concept of the functionality and how should it be implemented? -->
+
+### Example Use Case
+<!-- What is an example use case in steps (1. / 2. / 3. / etc.) that describes the functionality? -->
+
+### Alternatives / Workarounds
+<!-- Which alternatives or workarounds exist currently? -->
+
+### 3rd Party References
+<!-- Have you seen a similar functionality provided somewhere else? -->
+",Yes
+centos-paas-sig/linchpin,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+",No
+rouge-ruby/rouge,"
+**Name of the lexer**
+The name of the lexer with the bug.
+
+**Code sample**
+A sample of the code that produces the bug.
+
+```
+<|Code|>
+```
+
+It also helps if you can provide a link to a code sample on [<|URL|>][dingus].
+
+**Additional context**
+Add any other context about the problem here.
+
+[dingus]: <|URL|>
+",Yes
+langium/langium,"<!-- Please search existing issues to avoid creating duplicates. -->
+<!-- Describe the improvement you'd like to see in the project. -->
+",No
+efroemling/ballistica,"
+## Description
+Describe feature that you want.
+
+## Solution
+A clear and concise description of what you want to happen.
+
+## Alternatives
+A clear and concise description of any alternative solutions or features you've considered.
+
+## Additional context
+Add any other context or screenshots about the feature request here.
+",Yes
+hackforla/homeuniteus,"
+### Overview
+Links to cross-origin destinations are unsafe both from a security and performance perspective.
+
+### Action Item
+Run [Lighthouse](<|URL|>) and then follow the instructions in [cross-origin destinations are unsafe]
+(<|URL|>audits/noopener) .
+
+## Summary of instructions
+When using *target=_blank* also adding *rel=""noopener""* to the tag ensures that new page runs in a separate process.
+",Yes
+meilisearch/instant-meilisearch,"
+<!-- This is not an exhaustive model but a help. No step is mandatory. -->
+
+**Description**
+Brief explanation of the feature.
+
+**Basic example**
+If the proposal involves something new or a change, include a basic example. How would you use the feature? In which context?
+
+**Other**
+Any other things you want to add.
+",Yes
+amethyst/specs,"
+## Description
+
+A clear and concise description of what the bug is.
+
+## Meta
+
+Rust version:
+<|Repo_Name|> version / commit:
+Operating system:
+
+## Reproduction
+
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+## Expected behavior
+
+A clear and concise description of what you expected to happen.
+",Yes
+beagleboard/librobotcontrol,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+dotnet/samples,"<!--
+This issue template is for use in opening issues that describe outdated coding practices in our <|Repo_Name|>. This template can be used to create an issue:
+
+- By Microsoft product team members who notice outdated coding practices.
+
+- By Microsoft customers who find that the sample style does not match current practices.
+
+Text in brackets are placeholders; replace the text with the requested information and remove the brackets before submitting the issue. Also, remove this comment before submitting the issue.
+
+-->
+## [Change Title]
+
+[Brief description of the change]
+
+[Describe the outdated practice and what would be preferred for modern code]
+
+<!-- Do not modify anything below this line -->
+
+---
+#### Issue metadata
+
+* Issue type: sample-update
+",No

@@ -1,0 +1,789 @@
+full_name,body_anonymized,is_resolvable_human_response
+xingchuanzhen/wpf-music_player,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+leafwing-studios/leafwing_input_playback,"
+## Which code could be improved?
+
+Provide a direct link to the source if possible.
+
+Mention other related code if relevant.
+
+## How should this be changed?
+
+If it's not obvious, include a snippet and explain why this change is better.
+",No
+bacco007/homeassistantconfig,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+",No
+antvis/l7draw,"
+### 🐛 Question description [Please make everyone to understand it]
+
+### 💻 Link to minimal reproduction
+
+Please provide a link by forking these links [L7 Draw](<|URL|>) or GitHub repo. What is a minimal reproduction, and why is it required?
+
+### 🏞 Expected result
+
+### 🚑 Any additional [like screenshots]
+
+- **<|Repo_Name|> Version**:
+- **Platform**:
+",Yes
+jakemakesstuff/dcustomrpc,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+hm-seclab/yafra,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",Yes
+accenture/trac,"
+## Bug Report
+
+### Steps to Reproduce:
+1. ...step 1 description...
+2. ...step 2 description...
+3. ...step 3 description...
+
+### Expected Result:
+...description of what you expected to see...
+
+### Actual Result:
+...what actually happened, including full exceptions (please include the entire stack <|Repo_Name|>e, including ""caused by"" entries), log entries, screen shots etc. where appropriate...
+
+### Environment:
+...version and build of the project, OS and runtime versions, virtualised environment (if any), etc. ...
+
+### Additional Context:
+...add any other context about the problem here. If applicable, add screenshots to help explain...
+",No
+diem/move,"
+# 🐛 Bug
+
+<!-- A clear and concise description of your issue with the documentation or website.
+To report a security issue, please email <|Email|> -->
+
+## Steps to reproduce
+
+<!-- Please include all steps to reproduce the issue -->
+
+** Error message or problem **
+```
+<|Code|>
+```
+
+## Expected Behavior
+
+<!-- A clear and concise description of what you expected to happen. -->
+
+## System information
+
+**Please complete the following information:**
+- <!-- Browser type and version -->
+
+## Additional context
+
+<!-- Add any other context about the problem here. -->
+",Yes
+cunla/ghactions-manager,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+oroinc/orocommerce,"
+We primarily use GitHub Issues to report bugs and new features in Oro applications.
+For questions on how to use Oro applications or extensions, please use any of the support
+channels below:
+- StackOverflow: <|URL|>
+- Slack Community Chat: <|URL|>
+
+For more details, see <|URL|>
+
+Thank you!
+",No
+aresprotocols/ares,"
+**Question**
+
+_Please include information such as the following: is your question to clarify an existing resource
+or are you asking about something new? what are you trying to accomplish? where have you looked for
+answers?_
+",No
+wildgums/orc.search,"
+Leave Your Message Below (don't delete this line though)
+",No
+wx-chevalier/ueme-chat,"
+
+",No
+paperboi/kindle2notion,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",Yes
+gyozatech/noodlog,"
+**User Story**
+
+As a [developer/user/operator] I would like to [high level description] for [reasons].
+
+**Detailed Description**
+
+<!-- A clear and concise description of the feature. -->
+
+**Anything else**
+
+<!-- Misc information that will assist in solving the issue. -->
+",No
+nasa/lc,"
+**Checklist (Please check before submitting)**
+
+* [ ] I reviewed the [Contributing Guide](<|URL|>).
+* [ ] I performed a cursory search to see if the bug report is relevant, not redundant, nor in conflict with other tickets.
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Code snips**
+If applicable, add references to the software.
+
+**System observed on:**
+- Hardware
+- OS: [e.g. Linux 4.4]
+- Versions [e.g. cFE 6.6, OSAL 4.2, PSP 1.3 for mcp750, any related apps]
+
+**Additional context**
+Add any other context about the problem here.
+
+**Reporter Info**
+Full name and company/organization if applicable
+",Yes
+eldavoo/whatsapp-crypt14-crypt15-decrypter,"
+**Hexdump of your key file**
+Add the hexdump of your key file here
+
+**Hexdump of the encrypted DB
+Add the hexdump of the first 256 bytes of your DB here.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Program output using -v and -f**
+
+
+**Additional context**
+Add any other context about the problem here.
+",No
+crossplane/tbs,"
+### Topic
+<!--
+Please tell us a little about your topic and why it
+has come to your attention.
+--->
+
+### Examples
+<!--
+If you have any specific examples where you have
+encountered this topic, please include them here.
+We will try to address these specifically if we do an
+episode on the topic.
+--->
+",Yes
+bobankh/auto-generate-changelog,"
+## Describe the bug
+
+A clear and concise description of what the bug is.
+
+## To Reproduce
+
+> **NOTE**:Self-contained, minimal reproducing samples are extremely helpful and will expedite addressing your issue
+
+Steps to reproduce the behavior:
+
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+## Expected behavior
+
+A clear and concise description of what you expected to happen.
+
+## Screenshots
+
+If applicable, add screenshots to help explain your problem.
+
+## Environment
+<!--- Please provide the necessary environment information -->
+
+- Device: \[e.g. iPhone6]
+- OS: \[e.g. Ubuntu 18.04LTS]
+- Browser \[e.g. chrome, safari]
+- Version \[e.g. 22]
+
+## Additional context
+
+Add any other context about the problem here.
+",No
+epage-team/epage-core,"
+**Describe the bug**
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+
+**Expected behavior**
+
+**Device (please complete the following information):**
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+",No
+archivesunleashed/warclight,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior (e.g.):
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop/Laptop (please complete the following information):**
+- OS: [e.g. MacOS 10.13.3]
+- Browser: [e.g. chrome, safari]
+- Version: [e.g. 22]
+
+**Smartphone (please complete the following information):**
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser: [e.g. stock browser, safari]
+- Version: [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+",No
+openhau/laravel-boilerplate,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+nnstreamer/nnstreamer-example,"
+Having problems with a source code of a github repository?
+
+Having problems with the CI bot that controls the build process?
+
+Good to go? Then please remove these lines above, including this one, and help us understand your issue by answering the following:
+
+# Issue Description
+A clear and concise description of what the bug is.
+
+Expected Result
+============
+A clear and concise description of what you expected to happen.
+
+How to Reproduce
+===============
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+
+Further Information
+===============
+* A link to an output result showing the issue
+* Exact OS version
+",No
+azurydev/darkflare,"
+Ask us something.
+",No
+abdur-rahmaanj/honeybot,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+cburstedde/p4est,"
+**Description**
+
+**Proposed solution**
+",No
+wills106/homsassistant-solax-modbus,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**Mandatory details**
+1. Integration Version:
+2. HA Version:
+3. Inverter Brand:
+4. Plugin Used:
+5. First 6 digits of Serial:
+6. Connection Method:
+
+**Detailed Error Log**
+Detailed Error Log, if you press on the individual error further information is displayed.
+This is the content we need, the description alone doesn't provide enough context.
+
+If there are no log's showing for SolaX try the following depending on your language settings, you can find the full logs under:
+
+Settings → System → Logs > at bottom of page press “LOAD FULL LOGS”
+
+Now the full logs are loaded. If you scroll down, you will see them.
+Once the full logs are shown, you can either use the search function in your browser to search for “solax” related entries or use the search entry field on top of the page.
+
+Search for
+
+solax
+
+and report us the logs. Make sure to replace sensitive information by xxxx (if any)
+
+**Additional context**
+Add any other context about the problem here.
+",No
+intelligo-io/intelligo-generator,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+ripaglobal/omniauth-azure-activedirectory-v2,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+amoebelabs/swiss-army-knife-card,"
+<!--
+Please present a concise description of the problem to be addressed by this feature request. Please be clear about what parts of the problem are considered to be in-scope and out-of-scope.)
+-->
+
+## The Problem To Be Solved
+
+### Additional background:
+
+### Related Issues (if any)
+
+<!--
+A concise description of your preferred solution. Things to address include:
+
+Details of the technical implementation
+Tradeoffs made in design decisions
+Caveats and considerations for the future
+If there are multiple solutions, please present each one separately. Save comparisons for the very end.)-->
+
+## (Optional): Suggested Solution
+
+## (Optional): Alternative Solutions
+",No
+omar-belghaouti/react-help-create,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+flower-os/flower,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Platform**
+Whichever platform was used to test the bug. E.g QEMU, Virtualbox, real Lenovo laptop.
+
+**Additional context**
+Add any other context about the problem here.
+",No
+secondmind-labs/trieste,"
+**Describe the feature you'd like**
+A clear and concise description of what you want to happen.
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context about the feature request here.
+",No
+danielroe/sanity-typed-queries,"
+**📚 Is your documentation request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I feel I should be able to [...] but I can't see how to do it from the docs.
+
+**🔍 Where should you find it?**
+What page of the docs do you expect this information to be found on?
+
+**ℹ️ Additional context**
+Add any other context or information.
+",No
+theheraldproject/herald-for-ios,"
+**Please start with a use case description for a USER of this enhancement**
+
+[Who]  As a ????? [e.g. Developer / App user]
+
+[What] I need to ??? [e.g. see a list of venues]
+
+[Value] In order to achieve ??? and/or realise ??? benefit
+
+**Describe the potential solution you'd like**
+
+A clear and concise description of what you want to happen within Herald.
+
+**Describe alternatives you've considered**
+
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+
+Add any other context or screenshots about the feature request here.
+
+**Relative priority**
+
+Please give an indication of a relative priority for this enhancement.
+",No
+andnixsh/il2cppdumper-gui,"
+Note: if you do not provide all of the following information I will directly ignore and close this issue
+
+- Il2CppDumper version
+
+- Target Unity version
+
+- Describe the issue
+
+- Upload executable file and global-metadata.dat
+",No
+freezeyou/freezeyou,"
+**Please describe if the feature request related to an issue**
+A clear and concise description of what the problem is.
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+erezrokah/aws-testing-library,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+darklinkpower/harmony,"
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen or be implemented.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+",No
+softmaple/editor,"
+
+",No
+teddy-gustiaux/default-bookmark-folder,"
+# This is a Question
+
+**Description**
+What is your question? What would you need help with?
+
+**Additional context**
+Add any other context or screenshots about your question here.
+",No
+aniket762/playground,"
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+",No
+idealeer/xmap,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+",No
+palkan/active_delivery,"
+## Is your feature request related to a problem? Please describe.
+
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+## Describe the solution you'd like
+
+A clear and concise description of what you want to happen.
+
+## Describe alternatives you've considered
+
+A clear and concise description of any alternative solutions or features you've considered.
+
+## Additional context
+
+Add any other context or screenshots about the feature request here.
+",No
+smallstep/step-sds,"
+### Subject of the issue
+Describe your issue here
+
+### Environment
+* Kubernetes version:
+* Cloud provider or hardware configuration:
+* OS (e.g., from /etc/os-release):
+* Kernel (e.g., `uname -a`):
+* Install tools:
+* Other:
+
+### Steps to reproduce
+Tell us how to reproduce this issue
+
+### Expected behaviour
+Tell us what should happen
+
+### Actual behaviour
+Tell us what happens instead
+
+### Additional context
+Add any other context about the problem here
+",No
+jumpper/jumpper,"
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+",No
+duguying/parsing-techniques,"
+- 章节 [如: 1.3]
+",No
+ctreffs/swiftimgui,"
+<!--
+Thanks for contributing to this project!
+
+Before you submit your issue, please replace the paragraphs
+below with information about your proposed feature.
+-->
+
+### Feature request
+
+*Replace this paragraph with a description of your proposed feature.
+A clear and concise description of what the idea or problem is you want to solve.
+Please be sure to describe some concrete use cases for the new feature -- be as specific as possible.
+Provide links to existing issues or external references/discussions, if appropriate.*
+
+### Describe the solution you'd like
+
+*A clear and concise description of what you want to happen.*
+
+### Describe alternatives you've considered
+
+*A clear and concise description of any alternative solutions or features you've considered.*
+
+### Additional context
+
+*Add any other context or screenshots about the feature request here.*
+",No
+bpmn-io/bpmn-js-token-simulation-plugin,"
+
+__What should we do?__
+
+<!-- Clearly describe the activity we should carry out. -->
+
+
+__Why should we do it?__
+
+<!-- Argue why doing it is a healthy investment of our time. -->
+",No
